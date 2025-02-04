@@ -1,15 +1,15 @@
 /* General Styles */
 :root {
-  --primary-color: #77aaff;
-  --secondary-color: #333;
-  --background-light: #f4f4f4;
-  --background-dark: #1a1a1a;
-  --text-light: #333;
-  --text-dark: #fff;
+  --primary-color: #007aff;
+  --secondary-color: #1c1c1e;
+  --background-light: #ffffff;
+  --background-dark: #000000;
+  --text-light: #1c1c1e;
+  --text-dark: #ffffff;
 }
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Inter', sans-serif;
   line-height: 1.6;
   margin: 0;
   padding: 0;
