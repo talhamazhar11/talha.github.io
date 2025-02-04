@@ -19,8 +19,8 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 window.addEventListener('scroll', () => {
   const navbar = document.getElementById('navbar');
   if (window.scrollY > 50) {
-    navbar.style.backgroundColor = 'rgba(51, 51, 51, 0.9)';
+    navbar.style.backgroundColor = 'rgba(28, 28, 30, 0.9)';
   } else {
-    navbar.style.backgroundColor = '#333';
+    navbar.style.backgroundColor = '#1c1c1e';
   }
 });
